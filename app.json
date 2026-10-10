@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "HouServices",
+    "slug": "houservices",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "name": "HouServices",
+      "shortName": "HouServices",
+      "themeColor": "#0F766E",
+      "backgroundColor": "#F6F7F9",
+      "description": "Book trusted household service professionals"
+    }
+  }
+}
